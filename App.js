@@ -18,3 +18,10 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+
+// github is just a place you can store your file or entire project
+// Initializing git is like introducing git into our project
+// The command line "git init" initializes our project with git
+// note: initializing git just makes it avilable to our project. It doesnt  cause it to start tracking chnages
+// The command line "git status" tells what git has done so far in your project
+// For git to be able to track a parti
